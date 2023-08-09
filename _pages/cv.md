@@ -18,14 +18,14 @@ Education
 
 Working Paper
 ======
-  <ul> Optimizing Queues When Customers Commit the Sunk Cost Fallacy, 2021
+  <ul> Optimizing Queues When Customers Commit the Sunk Cost Fallacy (2021) 
     WU Shining, YANG Liutao.
   (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937766)</ul>
   
 Teaching Assistant
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <ul>LGT2106 Principles of Operations Management, instructor: Prof. PANG KW Anthony, Autumn 2023
+    LGT6201 Optimization Models and Methodologies, instructor: Prof. JIANG Li, Autumn 2022
+    LGT6006 Statistics and Game Theoretic Methods for Business Analysis and Decisions, instructor: Prof. JIANG Li, Autumn 2021 </ul>
   
 
