@@ -16,11 +16,11 @@ Education
 * M.Phil. in Operations Management, Department of Logistics and Maritime Studies, the Hong Kong Polytechnic University, 2021
 * Ph.D in Operations Management, Department of Logistics and Maritime Studies, the Hong Kong Polytechnic University, 2024 (expected)
 
-Publications
+Working Paper
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <ul>Optimizing Queues When Customers Commit the Sunk Cost Fallacy, 2021
+    WU Shining, YANG Liutao.
+  (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937766)</ul>
   
 Teaching Assistant
 ======
